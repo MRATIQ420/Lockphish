@@ -2,8 +2,8 @@
 
 Lockphish it's the first tool (05/13/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
 
-## Author: https://github.com/thelinuxchoice/lockphish
-## Twitter: https://twitter.com/linux_choice
+## Author: https://github.com/MRATIQ420
+## Youtube: https://www.youtube.com/channel/UCPjsRDBYr8KIR-3iMs00zmg
 
 ![lp](https://user-images.githubusercontent.com/34893261/74437970-e5025000-4e47-11ea-9291-d83afd3fe008.png)
 
@@ -20,7 +20,7 @@ Usage of Lockphish for attacking targets without prior mutual consent is illegal
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/lockphish
+git clone https://github.com/MRATIQ420/Lockphish
 cd lockphish
 bash lockphish.sh
 ```
